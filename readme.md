@@ -50,14 +50,7 @@ It enables authenticated hotel employees to:
 
 ## 📁 Folder Structure
 
-├── src/
-│ ├── pages/ # Route pages: Dashboard, Bookings, Cabins, Settings, etc.
-│ ├── features/ # Feature modules like bookings, cabins, guests
-│ ├── context/ # Context API for UI state
-│ ├── services/ # Supabase and API logic
-│ ├── hooks/ # Custom React hooks
-│ ├── components/ # Reusable UI components
-│ ├── styles/ # Global & styled-components theming
+ ```bash src/ ├── pages/ # Route pages: Dashboard, Bookings, Cabins, Settings, etc. ├── features/ # Feature modules like bookings, cabins, guests ├── context/ # Context API for UI state ├── services/ # Supabase and API logic ├── hooks/ # Custom React hooks ├── components/ # Reusable UI components ├── styles/ # Global & styled-components theming ```
 
 
 ---
